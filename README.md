@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of matteocontrini/flarum-imgur-upload.** Not for installation: use [Packagist](https://packagist.org/packages/matteocontrini/flarum-imgur-upload) or the [upstream repository](https://github.com/matteocontrini/flarum-imgur-upload).
 
-**0** versions archived · Latest: [`v3.9.1`](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v3.9.1) · License: `GPL-3.0` · Flarum: `^1.0.0`
+**21** versions archived · Latest: [`v3.9.1`](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v3.9.1) · License: `GPL-3.0` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2015-12-20 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v1.0.0) |
+| `v1.0.0-beta` | 2015-12-05 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v1.0.0-beta) |
+| `v1.0.0-beta.2` | 2015-12-06 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v1.0.0-beta.2) |
+| `v1.0.0-beta.3` | 2015-12-08 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v1.0.0-beta.3) |
+| `v1.0.0-beta.4` | 2015-12-09 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v1.0.0-beta.4) |
+| `v1.0.0-beta.5` | 2015-12-16 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v1.0.0-beta.5) |
+| `v2.0.0` | 2017-09-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v2.0.0) |
+| `v2.0.1` | 2017-09-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v2.0.1) |
+| `v3.0.0` | 2019-01-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v3.0.0) |
+| `v3.1.0` | 2019-01-17 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tree/archive/v3.1.0) |
+
+[View all 21 versions](https://github.com/flarchive/matteocontrini-flarum-imgur-upload/tags)
 
 Catalog entry: [packages/matteocontrini-flarum-imgur-upload.json](https://github.com/flarchive/archive-index/blob/main/packages/matteocontrini-flarum-imgur-upload.json)
 
